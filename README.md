@@ -93,12 +93,12 @@ While this code uses `+`, the output will be nothing but a column of numbers. Wh
 
 You should be able to...
 
-- [ ] Open the terminal outside of VS code
-- [ ] Use `cd` to navigate between directories
-- [ ] Use `ls` to list the contents of a directory
-- [ ] Use `mkdir` to create an empty directory
-- [ ] Use `code` to open VS Code
-- [ ] Use `git clone` to download a git repository onto your computer
+- [-] Open the terminal outside of VS code
+- [-] Use `cd` to navigate between directories
+- [-] Use `ls` to list the contents of a directory
+- [-] Use `mkdir` to create an empty directory
+- [-] Use `code` to open VS Code
+- [-] Use `git clone` to download a git repository onto your computer
 
 ### Editing And Running Code
 
@@ -122,8 +122,8 @@ You should be able to...
 
 ### Console Output And Debugging
 
-- [ ] Use `console.log` to print to the console
-- [ ] Use `typeof` to check what type of data a variable holds
+- [-] Use `console.log` to print to the console
+- [-] Use `typeof` to check what type of data a variable holds
 
 ### Numbers
 
